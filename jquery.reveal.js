@@ -1,4 +1,6 @@
 /*
+ * https://github.com/sophilabs-forks/reveal/
+ * Forked from https://github.com/zurb/reveal (not maintained anymore)
  * jQuery Reveal Plugin 1.0
  * www.ZURB.com
  * Copyright 2010, ZURB
